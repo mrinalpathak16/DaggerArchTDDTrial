@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">DaggerArchTDDTrial</string>
+    <string name="loading">Loading…</string>
+    <string name="title">Title</string>
+    <string name="id">Id</string>
+    <string name="users_list">Users List :-</string>
+    <string name="data_fetch_failed">Data Fetch from Server failed!</string>
+    <string name="network_error">Network Error</string>
+</resources>
